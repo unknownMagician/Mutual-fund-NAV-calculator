@@ -1,0 +1,20 @@
+{
+  "funds": {
+    "mid": [
+      {
+        "key": "MAA316",
+        "name": "Axis Small Cap Fund - Direct Plan - Growth"
+      },
+      {
+        "key": "MSA031",
+        "name": "SBI Small Cap Fund - Direct Plan - Growth"
+      }
+    ],
+    "large": [
+      {
+        "key": "MAA192",
+        "name": "Axis Long Term Equity Fund - Direct Plan - Growth"
+      }
+    ]
+  }
+}
