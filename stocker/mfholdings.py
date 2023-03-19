@@ -13,6 +13,6 @@ data_array = []
 
 for row in rows:
     data = row.get_text().strip().split('\n')
-    data_array.append([data[1], data[6]]) # extract only the 2nd and 8th columns and append to data_array
+    data_array.append([data[1], data[6]]) # extract only the 2nd and 7th columns and append to data_array
 
 print(data_array)
